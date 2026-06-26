@@ -1,5 +1,5 @@
 # 💫 About Me:
-I love designing electronic circuits and creating PCBs<br>I like working with microcontrollers and creating embbeded applications and demos and I have an interest in Power electronics and DC-DC converters<br>
+I love designing electronic circuits and creating PCBs<br>I like working with microcontrollers and creating embbeded applications and demos and I have an interest in Power electronics and DC-DC converters and microcontroller embedded programming <br>
 
 
 ## 🌐 Socials:
